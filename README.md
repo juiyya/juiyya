@@ -42,7 +42,6 @@
 </div>
 
 <div> 
-<h3 align="center">my commit history</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juiyya/juiyya/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juiyya/juiyya/output/github-snake.svg"/>
@@ -53,7 +52,6 @@
 <h3>contact me</h3>
 
 <div align="center">
-
 <a href="mailto:yamazaki.y@outlook.com">
 <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logoColor=white"/>
 </a>
