@@ -1,17 +1,18 @@
 <div align="center">
-<h1 align="center">nice to meet you, i'm juiyya!</h1>
+<h1>nice to meet you, i'm juiyya!</h1>
 <div>
+<img src="lain.gif" alt="Lain GIF" width="300">
 </div>
 <h3 align="center">about me </h3>
 
 
-<p align="center">
+<p>
 - studying Computer Science at FIAP <br>
 - passionate about hardware and how things work under the hood <br>
 - when I'm not coding, I'm probably making music <br>
 </p>
 
-<h3 align="center">languages and tools</h3>
+<h3>languages and tools</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
@@ -30,7 +31,7 @@
 </div>
 
 <div>
-<h3 align="center">my stats</h3>
+<h3>my stats</h3>
 <div align="center">
   <a href="https://github.com/juiyya">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juiyya&show_icons=true&theme=dark&cachebust=20251021"/>
@@ -49,9 +50,9 @@
 </picture>
 </div>
 
-<h3 align="center">contact me</h3>
+<h3>contact me</h3>
 
-<div align="center" style="padding-top: 20px;">
+<div align="center">
 
 <a href="mailto:yamazaki.y@outlook.com">
 <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logoColor=white"/>
