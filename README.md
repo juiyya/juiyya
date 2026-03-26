@@ -30,10 +30,10 @@
 <h3>my stats</h3>
 <div align="center">
   <a href="https://github.com/juiyya">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juiyya&theme=dark&cachebust=20251021"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juiyya&theme=dark&show_icons=true&count_private=true&cache_seconds=0"/>
   </a>
   <a href="https://github.com/juiyya/github-readme-stats">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juiyya&layout=compact&show_icons=true&theme=dark&cachebust=20251021" alt="Top Langs" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juiyya&layout=compact&theme=dark&count_private=true&cache_seconds=0"/>
   </a>
 </div>
 
