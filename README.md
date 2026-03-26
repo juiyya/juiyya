@@ -29,14 +29,11 @@
 <div>
 <h3>my stats</h3>
 <div align="center">
-  <a href="https://bit.ly/gh-readme-profile">
-  <img src="https://gh-readme-profile.vercel.app/api?username=juiyya&theme=dark&hide=issues%2Ccontributed&photo_resize=120" 
-       alt="GitHub Readme Profile" 
-       width="500" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=juiyya&show_icons=true&theme=dark" alt="GitHub Readme Profile" width="400"/>
 </a>
-  <!-- <a href="https://github.com/juiyya">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juiyya&show_icons=true&include_all_commits=true&count_private=true&theme=dark" height="150" alt="most used languages" />
-  </a> -->
+  <a href="https://github.com/juiyya">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=juiyya&layout=compact&theme=dark" alt="most used languages" width="357" />
+  </a> 
 </div>
 
 <div> 
