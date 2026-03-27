@@ -1,11 +1,10 @@
 <div align="center">
-<h1>nice to meet you, i'm juiyya!</h1>
-<div>
-<img src="lain.gif" alt="Lain GIF" width="300">
-</div>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=400&color=90ACD7&center=true&vCenter=true&width=690&height=54&lines=hi+there!+%E3%83%BE(%EF%BC%BE%E2%88%87%EF%BC%BE);i'am+Juiyya+%CB%86%E1%97%9C%CB%86" alt="Typing SVG" />
+  </a>
+
+
 <h3 align="center">about me </h3>
-
-
 <p>
 - studying Computer Science at FIAP <br>
 - passionate about hardware and how things work under the hood <br>
@@ -25,10 +24,6 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
 </div>
-
-<div>
-<h3>my stats</h3>
-<div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=juiyya&show_icons=true&theme=dark" alt="GitHub Readme Profile" width="400"/>
 </a>
   <a href="https://github.com/juiyya">
