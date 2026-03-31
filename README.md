@@ -24,6 +24,8 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
 </div>
+
+<br>
   <img src="https://github-readme-stats-fast.vercel.app/api?username=juiyya&show_icons=true&theme=dark" alt="GitHub Readme Profile" width="400"/>
 </a>
   <a href="https://github.com/juiyya">
@@ -31,7 +33,8 @@
   </a> 
 </div>
 
-<div> 
+<div align="center"> 
+<h3>snake game (commits)</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juiyya/juiyya/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juiyya/juiyya/output/github-snake.svg"/>
@@ -39,15 +42,15 @@
 </picture>
 </div>
 
+<div align="center">
 <h3>contact me</h3>
-
 <div align="center">
 <a href="mailto:yamazaki.y@outlook.com">
 <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/julia-yamazaki/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</div>
 
 </div>
