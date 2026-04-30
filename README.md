@@ -7,7 +7,6 @@
 <div>
 <h3>about me </h3>
 <p>
-- studying Computer Science at FIAP <br>
 - passionate about hardware and how things work under the hood <br>
 - when I'm not coding, I'm probably making music <br>
 </p>
