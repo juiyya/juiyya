@@ -1,9 +1,4 @@
 <div align="center">
-  <!-- Titulo-->
-  <h1>Julia Yamazaki</h1>
-  <br>
-
-  <!-- Cards -->
   <div>
     <a href="https://github.com/juiyya">
       <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=juiyya&layout=compact&theme=tokyonight" alt="Top Languages" />
