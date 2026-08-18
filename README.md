@@ -1,4 +1,7 @@
 <div align="center">
+  <h1>Julia Yamazaki</h1>
+  <br>
+
   <div>
     <a href="https://github.com/juiyya">
       <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=juiyya&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -9,7 +12,15 @@
   </div>
   <br>
 
-  <!-- Contato -->
+  <div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juiyya/juiyya/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juiyya/juiyya/output/github-contribution-grid-snake.svg">
+      <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/juiyya/juiyya/output/github-contribution-grid-snake.svg">
+    </picture>
+  </div>
+  <br>
+
   <div>
     <h3>Contact me</h3>
     <a href="mailto:yamazaki.y@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/></a>
