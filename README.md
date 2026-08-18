@@ -7,6 +7,11 @@
 <div>
   <a href="https://github.com/juiyya">
     <img src="https://github-readme-stats-fast.vercel.app/api/?username=juiyya&layout=compact&theme=dark" width="357" />
+
+    <a href="https://github.com/juiyya">
+      <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=juiyya&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </a>
+    
   </a>
 </div>
 
