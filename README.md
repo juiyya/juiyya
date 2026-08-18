@@ -1,4 +1,5 @@
 <div align="center">
+
   <h1>Julia Yamazaki</h1>
   <br>
 
@@ -14,9 +15,9 @@
 
   <div>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juiyya/juiyya/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juiyya/juiyya/output/github-contribution-grid-snake.svg">
-      <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/juiyya/juiyya/output/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juiyya/juiyya/output/github-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juiyya/juiyya/output/github-snake.svg">
+      <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/juiyya/juiyya/output/github-snake.svg">
     </picture>
   </div>
   <br>
