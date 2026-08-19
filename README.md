@@ -47,6 +47,10 @@ You can call me Julia! I'm a software engineering enthusiast, from Brasil.
   <img align="left" title="Jest" alt="Jest" width="40px" src="./assets/jest-logo.svg" />
 </a>
 
+<a href="https://linux.org/pt-BR/" target="_blank">
+  <img align="left" title="Linux" alt="Linux" width="40px" src="./assets/Linux.svg" />
+</a>
+
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juiyya/juiyya/output/github-snake-dark.svg">
