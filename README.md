@@ -1,18 +1,33 @@
-# Julia Yamazaki
+# Hi there
 
----
-hi stranger! i'm juiyya
+You can call me Julia! I'm a software engineering enthusiast, from Brasil.
 
-## Stats
+## About me
 
-<div>
-  <a href="https://github.com/juiyya">
-    <img height="135" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=juiyya&layout=compact&theme=tokyonight&langs_count=5" alt="Top Languages" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/juiyya">
-    <img height="135" src="https://github-readme-stats-fast.vercel.app/api/?username=juiyya&show_icons=true&theme=tokyonight&hide=issues,contribs" alt="GitHub Stats" />
-  </a>
+* I am a computer science student 
+* Currently learning about Cross Entropy 
+* Deep diving into: Rust
+* Also i'm a musician :P
+
+## I code with
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
 
 <div>
@@ -21,18 +36,4 @@ hi stranger! i'm juiyya
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juiyya/juiyya/output/github-snake.svg">
     <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/juiyya/juiyya/output/github-snake.svg">
   </picture>
-</div>
-
-<br>
-
-### Contact me
-
-<div>
-  <a href="mailto:yamazaki.y@outlook.com">
-    <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/julia-yamazaki/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 </div>
