@@ -1,27 +1,38 @@
 # Julia Yamazaki
---- hi stranger! i'm juiyya
+
+---
+hi stranger! i'm juiyya
 
 ## Stats
-  <div>
-    <a href="https://github.com/juiyya">
-      <img height="135" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=juiyya&layout=compact&theme=tokyonight&langs_count=5" alt="Top Languages" />
-    </a>
-    <a href="https://github.com/juiyya">
-      <img height="135" src="https://github-readme-stats-fast.vercel.app/api/?username=juiyya&show_icons=true&theme=tokyonight&hide=issues,contribs" alt="GitHub Stats" />
-    </a>
-  </div>
-  <div>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juiyya/juiyya/output/github-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juiyya/juiyya/output/github-snake.svg">
-      <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/juiyya/juiyya/output/github-snake.svg">
-    </picture>
-  </div>
-  <br>
 
-  <div>
-    <h3>Contact me</h3>
-    <a href="mailto:yamazaki.y@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/></a>
-    <a href="https://www.linkedin.com/in/julia-yamazaki/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  </div>
+<div>
+  <a href="https://github.com/juiyya">
+    <img height="135" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=juiyya&layout=compact&theme=tokyonight&langs_count=5" alt="Top Languages" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/juiyya">
+    <img height="135" src="https://github-readme-stats-fast.vercel.app/api/?username=juiyya&show_icons=true&theme=tokyonight&hide=issues,contribs" alt="GitHub Stats" />
+  </a>
+</div>
+
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juiyya/juiyya/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juiyya/juiyya/output/github-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/juiyya/juiyya/output/github-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+### Contact me
+
+<div>
+  <a href="mailto:yamazaki.y@outlook.com">
+    <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/julia-yamazaki/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
