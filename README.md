@@ -31,10 +31,6 @@ You can call me Julia! I'm a software engineering enthusiast, from Brasil.
   <img align="left" title="Node JS" alt="Node JS" width="40px" src="./assets/nodejs-logo.svg" />
 </a>
 
-<a href="https://go.dev" target="_blank">
-  <img align="left" title="Go Lang" alt="Go Lang" width="40px" src="./assets/golang-logo.svg" />
-</a>
-
 <a href="https://www.rust-lang.org" target="_blank">
   <img align="left" title="Rust" alt="Rust" width="40px" src="./assets/rust-logo.svg" />
 </a>
@@ -45,14 +41,6 @@ You can call me Julia! I'm a software engineering enthusiast, from Brasil.
 
 <a href="https://jestjs.io/pt-BR/" target="_blank">
   <img align="left" title="Jest" alt="Jest" width="40px" src="./assets/jest-logo.svg" />
-</a>
-
-<a href="https://www.cypress.io" target="_blank">
-  <img align="left" title="Cypress" alt="Jest" width="40px" src="./assets/cypress-logo.svg" />
-</a>
-
-<a href="https://storybook.js.org" target="_blank">
-  <img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
 </a>
 
 <div>
