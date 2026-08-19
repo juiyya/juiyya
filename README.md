@@ -1,21 +1,15 @@
-<div align="left">
-  <h1>Julia Yamazaki</h1>
-  
-  <br>
+# Julia Yamazaki
+--- hi stranger! i'm juiyya
 
+## Stats
   <div>
     <a href="https://github.com/juiyya">
-      <!-- A-->
       <img height="135" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=juiyya&layout=compact&theme=tokyonight&langs_count=5" alt="Top Languages" />
     </a>
     <a href="https://github.com/juiyya">
-      <!-- A -->
       <img height="135" src="https://github-readme-stats-fast.vercel.app/api/?username=juiyya&show_icons=true&theme=tokyonight&hide=issues,contribs" alt="GitHub Stats" />
     </a>
   </div>
-  <br>
-
-  <!--snake -->
   <div>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juiyya/juiyya/output/github-snake-dark.svg">
@@ -25,7 +19,6 @@
   </div>
   <br>
 
-  <!-- ctt -->
   <div>
     <h3>Contact me</h3>
     <a href="mailto:yamazaki.y@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/></a>
