@@ -1,6 +1,6 @@
 # Hi there
 
-You can call me Julia! I'm a software engineering enthusiast, from Brasil.
+You can call me Julia!
 
 ## About me
 
@@ -9,7 +9,7 @@ You can call me Julia! I'm a software engineering enthusiast, from Brasil.
 * Deep diving into: Rust
 * Also i'm a musician :P
 
-## I code with
+## 
 
 <a href="https://www.typescriptlang.org" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
@@ -41,10 +41,6 @@ You can call me Julia! I'm a software engineering enthusiast, from Brasil.
 
 <a href="https://graphql.org" target="_blank">
   <img align="left" title="GraphQL" alt="GraphQL" width="40px" src="./assets/graphql-logo.svg" />
-</a>
-
-<a href="https://jestjs.io/pt-BR/" target="_blank">
-  <img align="left" title="Jest" alt="Jest" width="40px" src="./assets/jest-logo.svg" />
 </a>
 
 <a href="https://linux.org/pt-BR/" target="_blank">
