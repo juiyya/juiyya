@@ -5,9 +5,9 @@ You can call me Julia!
 ## About me
 
 * I am a computer science student 
-* Currently learning about Cross Entropy 
-* Deep diving into: Rust
+* Currently learning Rust 
 * Also i'm a musician :P
+* What i like:
 
 ## 
 
